@@ -1,0 +1,15 @@
+[user]
+	name = Kenny Gray
+[alias]
+	st = status -s -b
+	co = checkout
+	nb = checkout -b
+	br = branch
+	bra = branch -a
+	hist = log --oneline --decorate --graph
+	aa = add -A
+	diffs = diff --staged
+	pp = pull -p
+	fwl = push --force-with-lease
+[push]
+	default = simple
