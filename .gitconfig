@@ -13,3 +13,5 @@
 	fwl = push --force-with-lease
 [push]
 	default = simple
+[rerere]
+	enabled = true
