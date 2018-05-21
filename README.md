@@ -53,6 +53,8 @@
 * [Auo Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * [Auo Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+* [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 ## Postman
 
