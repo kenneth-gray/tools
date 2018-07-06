@@ -55,6 +55,7 @@
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 * [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+* [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 ## Postman
 
