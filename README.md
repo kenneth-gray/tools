@@ -43,3 +43,8 @@
 ## Screen recording tools
 
 - [Peek](https://github.com/phw/peek)
+
+## Testing tools
+
+- [Jest](https://jestjs.io/)
+- [Cypress](https://www.cypress.io/)
