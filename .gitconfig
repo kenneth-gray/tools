@@ -1,6 +1,6 @@
 [user]
 	name = Kenny Gray
-  email = kenneth-gray@users.noreply.github.com
+  	email = kenneth-gray@users.noreply.github.com
 [alias]
 	st = status -s -b
 	co = checkout
