@@ -17,3 +17,5 @@
 	default = simple
 [rerere]
 	enabled = true
+[core]
+	editor = vim
